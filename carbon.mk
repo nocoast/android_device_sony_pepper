@@ -11,7 +11,7 @@ $(call inherit-product, vendor/carbon/config/common_phone.mk)
 $(call inherit-product, device/htc/evita/device_evita.mk)
 
 # Device naming
-PRODUCT_DEVICE := ville
+PRODUCT_DEVICE := evita
 PRODUCT_NAME := carbon_evita
 PRODUCT_BRAND := htc
 PRODUCT_MODEL := One X
